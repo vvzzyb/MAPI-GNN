@@ -1,2 +1,2 @@
-# MANI-GNN
-MANI-GNN: Multi-Activation Node Interaction Graph Neural Network for Medical Image Fusion and Analysis
+# MAPI-GNN
+MAPI-GNN: Multi-Activation Plane Interaction Graph Neural Network for Medical Image Fusion and Analysis
